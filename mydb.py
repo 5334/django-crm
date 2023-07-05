@@ -1,3 +1,7 @@
+#install mysql on your computer
+#pip install mysql
+#pip install mysql-connector-python
+
 import mysql.connector
 
 #the database connection

@@ -19,3 +19,4 @@ cursorObject.execute("CREATE DATABASE primecore")
 
 print("DONE!!")
 
+# 
